@@ -1,6 +1,7 @@
 /**
- * Created by Suika on 3/11/14.
+ * Created by Jeremy Suika on 3/25/14
+ * functions_Industry.
  */
 
 
-alert("Test2");
+alert("Test1 for industry function");

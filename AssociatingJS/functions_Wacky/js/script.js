@@ -1,6 +1,7 @@
 /**
- * Created by Suika on 3/11/14.
+ * Created by Jeremy Suika on 3/25/14.
+ * functions_wacky
  */
 
 
-alert("Test2");
+alert("Test3 for fucntions wacky wacky");

@@ -6,7 +6,7 @@
 
 //alert("I bought a cool designer rug and don't any new furniture (sofa or chairs) to touch the new rug. \n\nNot sure of what new furniture can fit with the new rug.");
 
-//alert("Room is 20X30 ft or 600 square ft.");
+//alert("Room is 20X22 ft or 440 square ft.");
 
 //alert("Designer rug is 10X15 ft or 150 sq ft. ");
 
@@ -19,12 +19,14 @@ var totalSofa =largeSofa(sofaLenght,sofaWidth);
 
 function largeSofa (sofaLenght,sofaWidth){
     var largeSofa = sofaLenght*sofaWidth;
-    console.log("The area of the large sofa is "+ largeSofa+ " square ft.");
     return largeSofa;
 }
 
-
+if (totalSofa>450){
+    console.log("The sofa is to big for the room, look at a different size sofa.");
+}else{
+    console.log("The sofa fits in the room with the rug.");
+}
 
 console.log(totalSofa);
-
 

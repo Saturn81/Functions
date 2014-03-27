@@ -4,22 +4,5 @@
  */
 
 
+alert("I am buying a designer rug and don't any new furniture (sofa or chairs) to touch the new rug. \n\nNot sure of what new furniture can fit with the new rug.");
 
-
-
-
-/** function dogYears(age, currentAge){
-    var dogYears = age*currentAge* 78;
-    console.log("So my dogs age is " + dogYears);
-}
-
-
-                                                                        ///Used as a tool to figure out Functions, will delete
-dogYears(4,7);
-dogYears(7,7);
-
-
-
-//alert("Test3 for fucntions wacky wacky");
-
- */

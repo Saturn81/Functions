@@ -26,7 +26,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/functions_Wacky/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="234" selection-end="234" vertical-scroll-proportion="0.27459955" vertical-offset="0" max-vertical-offset="437">
+            <state line="17" column="0" selection-start="405" selection-end="405" vertical-scroll-proportion="0.6692913" vertical-offset="0" max-vertical-offset="495">
               <folding />
             </state>
           </provider>
@@ -35,7 +35,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/functions_Wacky/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="7" selection-start="105" selection-end="105" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="270">
+            <state line="12" column="7" selection-start="129" selection-end="129" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="270">
               <folding />
             </state>
           </provider>
@@ -61,10 +61,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="336" />
-    <option name="y" value="191" />
+    <option name="x" value="47" />
+    <option name="y" value="22" />
     <option name="width" value="1632" />
-    <option name="height" value="843" />
+    <option name="height" value="787" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -255,11 +255,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="336" y="191" width="1632" height="843" extended-state="0" />
+    <frame x="47" y="22" width="1632" height="787" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36351532" sideWeight="0.49968964" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39280576" sideWeight="0.49968964" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24953446" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -338,14 +338,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/functions_Wacky/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="7" selection-start="105" selection-end="105" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="270">
+        <state line="12" column="7" selection-start="129" selection-end="129" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="270">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/functions_Wacky/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="234" selection-end="234" vertical-scroll-proportion="0.27459955" vertical-offset="0" max-vertical-offset="437">
+        <state line="17" column="0" selection-start="405" selection-end="405" vertical-scroll-proportion="0.6692913" vertical-offset="0" max-vertical-offset="495">
           <folding />
         </state>
       </provider>

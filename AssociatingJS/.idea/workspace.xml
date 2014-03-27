@@ -26,7 +26,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/functions_Wacky/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="10" selection-start="1013" selection-end="1013" vertical-scroll-proportion="1.4136126" vertical-offset="0" max-vertical-offset="765">
+            <state line="36" column="0" selection-start="957" selection-end="957" vertical-scroll-proportion="0.5104712" vertical-offset="345" max-vertical-offset="840">
               <folding />
             </state>
           </provider>
@@ -35,7 +35,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/functions_Wacky/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="13" selection-start="96" selection-end="96" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="270">
+            <state line="3" column="19" selection-start="49" selection-end="49" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="270">
               <folding />
             </state>
           </provider>
@@ -256,10 +256,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="47" y="22" width="1632" height="787" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3913669" sideWeight="0.49968964" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3913669" sideWeight="0.49968964" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24953446" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -338,14 +338,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/functions_Wacky/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="96" selection-end="96" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="270">
+        <state line="3" column="19" selection-start="49" selection-end="49" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="270">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/functions_Wacky/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="10" selection-start="1013" selection-end="1013" vertical-scroll-proportion="1.4136126" vertical-offset="0" max-vertical-offset="765">
+        <state line="36" column="0" selection-start="957" selection-end="957" vertical-scroll-proportion="0.5104712" vertical-offset="345" max-vertical-offset="840">
           <folding />
         </state>
       </provider>

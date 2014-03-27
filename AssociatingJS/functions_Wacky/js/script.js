@@ -10,14 +10,15 @@
 
 //alert("Designer rug is 10X15 ft or 150 sq ft. ");
 
-var sofa =prompt("Do you want the large sofa or a few chairs in the room?",("large sofa or chairs"));
+var sofa =prompt("Do you want the large sofa in the room?",("yes or no"));
 
-if (sofa=="large sofa"||sofa=="Large Sofa"){
+if (sofa=="yes"||sofa=="Yes"){
     var sofaLenght =prompt("What is the length of the large sofa?");
     var sofaWidth  =prompt("What is the width of the large sofa?");
-}else{
-    var chair = prompt("Chairs are 12 square ft, how many chairs you want in the room?")
 }
+
+
+var chair =prompt("How many chairs do you want in the room?\nChairs are 12 sq. ft",(""));
 
 var totalChairs =amountChairs(chair);
 
@@ -34,12 +35,16 @@ function largeSofa (sofaLenght,sofaWidth){
     return largeSofa;
 }
 
-if (totalLargeSofa>360){
-    console.log("The sofa is to big for the room, look at a different size sofa or get some chairs.");
+
+
+var allfurniture= totalChairs+totalLargeSofa
+
+if (totalChairs+totalLargeSofa>260){
+    console.log("The furniture covers "+(totalChairs+totalLargeSofa)+ "sq ft, which is to big for the room, look at a different size sofa or amount of chairs");
 }else{
-    console.log("The sofa fits in the room with the rug.");
+    console.log("The new rug is not covered by any of the furniture.");
 }
 
 
-console.log(totalChairs);
+console.log(allfurniture);
 

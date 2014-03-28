@@ -3,5 +3,5 @@
  * functions_Industry.
  */
 
-
-alert("Test1 for industry function");
+var grade = prompt ("What was your grade for the assignment ");
+var points= prompt ("How many points is the assignment worth");

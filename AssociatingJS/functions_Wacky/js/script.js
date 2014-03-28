@@ -36,8 +36,8 @@ function largeSofa (sofaLenght,sofaWidth){
     return largeSofa;
 }
 
-var fun =4;
-var tune=5;
+//var fun =4;
+//var tune=5;
 
 
 

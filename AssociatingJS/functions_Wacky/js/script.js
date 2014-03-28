@@ -7,7 +7,7 @@
 alert("I bought a cool designer rug and don't want any new furniture (sofa or chairs) to touch the new rug. \n\nHave to see what furniture can fit with the new rug.");
 
 
-alert("Designer rug is 10X15 ft or 150 sq ft. I have 260 sq ft of available space for either furniture combination");
+alert("I have 100 sq ft of available space for either furniture combination");
 
 var sofa =prompt("Do you want the large sofa in the room?",("yes or no"));
 
@@ -36,11 +36,12 @@ function largeSofa (sofaLenght,sofaWidth){
     return largeSofa;
 }
 
+var fun =4;
+var tune=5;
 
 
-var allfurniture= totalChairs+totalLargeSofa;
 
-if (totalChairs+totalLargeSofa>260){
+if (totalChairs+totalLargeSofa>100){
     console.log("The furniture covers a total of "+(totalChairs+totalLargeSofa)+ "sq ft, which is to big for the room, look at a different size sofa or amount of chairs");
 }else{
     console.log("You have enough room for your furniture and the brand new rug.");
@@ -48,4 +49,4 @@ if (totalChairs+totalLargeSofa>260){
 
 
 
-console.log(allfurniture);
+console.log(amountChairs(tune));

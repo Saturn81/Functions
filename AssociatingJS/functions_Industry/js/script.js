@@ -10,7 +10,7 @@ var finalPoints=assignmentGrade(grade,points);
 
 function assignmentGrade (grade, points){
     var assignmentGrade = (grade/100)*points;
-    //console.log("If a got a "+grade+"% and that assignment was worth "+ points+ " points, I now have a total of "+assignmentGrade+ " points.");
+   // console.log("If a got a "+grade+"% and that assignment was worth "+ points+ " points, I now have a total of "+assignmentGrade+ " points.");
     return assignmentGrade;
 }
 
@@ -24,7 +24,7 @@ var finalPoints2=assignmentGrade2(grade2,points2);
 
 function assignmentGrade2 (grade2, points2){
     var assignmentGrade2 = (grade2/100)*points2;
-   // console.log("If a got a "+grade2+"% and the 2nd assignment was worth "+ points2+ " points, I now have a total of "+assignmentGrade2+ " points.");
+   //console.log("If a got a "+grade2+"% and the 2nd assignment was worth "+ points2+ " points, I now have a total of "+assignmentGrade2+ " points.");
     return assignmentGrade2;
 }
 
@@ -34,19 +34,17 @@ assignmentGrade2(grade,points);
 
 var completeGrades= (finalPoints+finalPoints2) / (Number(points)+Number(points2));
 
-console.log(completeGrades);
-
 
 if (completeGrades<=.59){
-    console.log("You are failing the class, you have a F.");
+    console.log("With the two assignments graded,you are failing the class, you have a F.");
 }else if (completeGrades<=.69){
-    console.log("You are not doing well, you have a D.");
+    console.log("With the two assignments graded,you are not doing well, you have a D.");
 }else if (completeGrades<=.79){
-    console.log("You got an C on the class");
+    console.log("With the two assignments graded,you got an C on the class");
 }else if (completeGrades<=.89){
-    console.log("You got an B in the class, congrats");
+    console.log("With the two assignments graded,you got an B in the class, congrats");
 }else{
-    console.log("You have a A, awesome!");
+    console.log("With the two assignments graded, You have a A, awesome!");
 }
 
 

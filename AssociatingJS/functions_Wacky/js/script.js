@@ -44,7 +44,7 @@ function largeSofa (sofaLenght,sofaWidth){      //the lenght and width are the p
 if (totalChairs+totalLargeSofa>90){      //if the total sq. ft of the two fuctions are above 90, then the statment is true.
     console.log("The furniture covers a total of "+(totalChairs+totalLargeSofa)+ "sq ft, which is to big for the room, look at a different size sofa or amount of chairs");  //this is displayed if TRUE.
 }else{
-    console.log("You have enough room for your furniture and the brand new rug.");      //If False, then the statment is displayed, showing that you have enough room for the furniture. 
+    console.log("You have enough room for your furniture and the brand new rug.");      //If False, then the statment is displayed, showing that you have enough room for the furniture.
 }
 
 
